@@ -5,7 +5,7 @@
 [![codestyle](https://img.shields.io/badge/codestyle-airbnb-brightgreen.svg?style=flat-square)](https://github.com/airbnb/javascript)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![Coverage Status](https://img.shields.io/coveralls/TeslaCtroitel/koa-node8-boilerplate.svg?style=flat-square)]()
+[![Coverage Status](https://img.shields.io/coveralls/TeslaCtroitel/koa-node8-boilerplate/bleeding-edge.svg?style=flat-square)]()
 [![dependencies Status](https://david-dm.org/TeslaCtroitel/koa-node8-boilerplate/status.svg?style=flat-square)](https://david-dm.org/TeslaCtroitel/koa-node8-boilerplate)
 [![devDependencies Status](https://david-dm.org/TeslaCtroitel/koa-node8-boilerplate/dev-status.svg?style=flat-square)](https://david-dm.org/TeslaCtroitel/koa-node8-boilerplate?type=dev)
 
@@ -43,3 +43,4 @@ Out of box support:
 
 #### Bleeding edge
 If you want to use most newest features of js ecosystem, you may check out "bleeding-edge" branch. For now, there Babel v7 alpha with [new proposals](https://github.com/tc39/proposals).
+
