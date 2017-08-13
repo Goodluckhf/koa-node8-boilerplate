@@ -14,6 +14,8 @@
 
 [![Sponsor](https://app.codesponsor.io/embed/jkPpzosXxwDBBaBNpoqWKCXd/TeslaCtroitel/koa-node8-boilerplate.svg)](https://app.codesponsor.io/link/jkPpzosXxwDBBaBNpoqWKCXd/TeslaCtroitel/koa-node8-boilerplate)
 
+**Attention! This branch contain alpha versions of dependencies, so it newest but maybe not stable.**
+
 Boilerplate for NodeJS HTTP RESTful API based on Koa.
 
 Out of box support:
@@ -25,7 +27,7 @@ Out of box support:
   - [**eslint-plugin-babel**](https://github.com/babel/eslint-plugin-babel)
   - [**eslint-plugin-json**](https://github.com/azeemba/eslint-plugin-json)
 - [**Lint-staged**](https://github.com/okonet/lint-staged) for run linting on staged files before commit
-- [**Babel v6**](https://github.com/babel/babel) with some plugins for transpiling your code
+- [**Babel v7**](https://github.com/babel/babel) with some plugins for transpiling your code
   - [**babel-plugin-module-resolver**](https://github.com/tleunen/babel-plugin-module-resolver) for resolve module non-relative path like '#src/http-server.js'
   - [**babel-preset-env**](https://github.com/babel/babel-preset-env) configured for NodeJS 8.x
   - [**babel-preset-stage-0**](https://babeljs.io/docs/plugins/preset-stage-0/)
@@ -42,5 +44,5 @@ Out of box support:
 - [**Cross-env**](https://github.com/kentcdodds/cross-env) for sets and use environment variables across platforms
 
 #### Bleeding edge
-If you want to use most newest features of js ecosystem, you may check out "bleeding-edge" branch. For now, there Babel v7 alpha with [new proposals](https://github.com/tc39/proposals).
+For now, there Babel v7 alpha with [new proposals](https://github.com/tc39/proposals).
 
